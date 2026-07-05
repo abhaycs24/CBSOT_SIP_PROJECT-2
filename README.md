@@ -63,12 +63,12 @@ Command: python app.py
 ### 📸 Project Interface Visuals
 
 <div align="center">
-  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0001.jpg" width="45%" style="margin: 10px;">
-  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0004.jpg" width="45%" style="margin: 10px;">
-  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0003.jpg" width="45%" style="margin: 10px;">
-  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0005.jpg" width="45%" style="margin: 10px;">
-  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0006.jpg" width="45%" style="margin: 10px;">
-  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0002.jpg" width="45%" style="margin: 10px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0001.jpg" width="100%" style="border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0004.jpg" width="100%" style="border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0003.jpg" width="100%" style="border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0005.jpg" width="100%" style="border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0006.jpg" width="100%" style="border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0002.jpg" width="100%" style="border: 1px solid #ddd; border-radius: 8px; margin-bottom: 15px;">
 </div>
 
 ## 🔮 Production Roadmap & Future Scope
