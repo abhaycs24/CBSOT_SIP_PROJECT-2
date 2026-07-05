@@ -55,3 +55,12 @@ Initialize the web interface application to establish an external tunnel gateway
 Command: python app.py
 
 ⚡ Live Production URL: https://6ac9dc23efed031517.gradio.live/
+
+## 🔮 Production Roadmap & Future Scope
+
+To scale this intelligent platform into an enterprise-grade distributed system, the following modular updates and structural optimizations are planned for future releases:
+
+* **Modular System Decoupling:** Shifting the architecture from a unified notebook runtime into independent execution scripts—specifically a dedicated backend microservice (`main.py` driven by FastAPI) and an autonomous client UI script (`app.py` leveraging Gradio).
+* **Automated Package Management:** Introducing structured containerization pipelines and dependency locks by deploying a production-ready `requirements.txt` profile for deterministic multi-environment setups.
+* **Streamlined Repository Operations:** Implementing standard production compliance filters by initializing a strict repository `.gitignore` configuration to suppress dynamic pipeline caching logs and localized virtual environments (`.venv`).
+* **Hybrid Dynamic Index Scaling:** Upgrading the static FAISS memory layer to an operational distributed cloud vector database instance (such as Pinecone or Milvus) to accommodate seamless automated real-time index synchronization and streaming text updates.
