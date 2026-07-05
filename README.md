@@ -55,9 +55,21 @@ Initialize the web interface application to establish an external tunnel gateway
 Command: python app.py
 
 ⚡ Live Production URL: https://7de2b8433c94288e1c.gradio.live/
+
 ---
 > **⚠️ Live Demo Note:** The interactive web interface is hosted on a temporary public instance. If the link appears to be expired, please refer to the visual demonstration screenshots below or clone the repository to run the application locally on your machine.
 ---
+
+### 📸 Project Interface Visuals
+
+<div align="center">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0001.jpg" width="45%" style="margin: 10px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0004.jpg" width="45%" style="margin: 10px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0003.jpg" width="45%" style="margin: 10px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0005.jpg" width="45%" style="margin: 10px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0006.jpg" width="45%" style="margin: 10px;">
+  <img src="https://github.com/abhaycs24/CBSOT_SIP_PROJECT-2/blob/main/IMG-20260705-WA0002.jpg" width="45%" style="margin: 10px;">
+</div>
 
 ## 🔮 Production Roadmap & Future Scope
 
