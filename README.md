@@ -54,7 +54,7 @@ Initialize the web interface application to establish an external tunnel gateway
 
 Command: python app.py
 
-⚡ Live Production URL: https://6ac9dc23efed031517.gradio.live/
+⚡ Live Production URL: https://7de2b8433c94288e1c.gradio.live/
 
 ## 🔮 Production Roadmap & Future Scope
 
